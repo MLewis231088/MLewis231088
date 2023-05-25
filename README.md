@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about artificial intelligence and develop useful applications
 - 🌱 I’m currently learning various cloud computing services, data pipelines and MLOps
 - 📫 You can reach me at malvicalewis.datascientist@gmail.com
-- My website - https://www.malvicalewis.com
+- My website - https://www.malvica-lewis.com
 
 
 <!---
